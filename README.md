@@ -82,5 +82,5 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh1220&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubh Rastogi GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Shubh Rastogi GitHub Stats" />
 </p>
