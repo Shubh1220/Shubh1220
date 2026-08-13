@@ -79,12 +79,14 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 
 ---
 
-### ☁️ AWS Infrastructure Automation
-**Terraform + AWS**
+---
 
-- Practiced infrastructure automation using Terraform.
-- Created and managed AWS infrastructure through Infrastructure as Code.
-- Used Terraform to automate cloud resource provisioning.
-- Practiced infrastructure lifecycle management and cleanup.
+## 📊 GitHub Stats
 
-**Tech:** `Terraform` `AWS` `Linux`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubh1220&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubh Rastogi GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1220&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
