@@ -79,10 +79,6 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 
 ---
 
----
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
