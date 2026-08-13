@@ -84,3 +84,19 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 <p align="center">
   <img src="./profile/stats.svg" alt="Shubh Rastogi GitHub Stats" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubh-rastogi-6a32273a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shubhr476@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Shubh1220">
+    <img src="https://img.shields.io/badge/GitHub-Shubh1220-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
