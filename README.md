@@ -46,3 +46,45 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🔄 Full CI/CD Pipeline
+**GitHub → Jenkins → Docker → Deployment**
+
+- Built an automated CI/CD pipeline for application deployment.
+- Integrated GitHub with Jenkins for automated builds.
+- Containerized the application using Docker.
+- Automated the build and deployment workflow.
+- Practiced CI/CD concepts including source control, build automation, and deployment.
+
+**Tech:** `GitHub` `Jenkins` `Docker` `Linux`
+
+---
+
+### 🐳 Multi-Container Application
+**Flask + Nginx + MySQL + Docker Compose**
+
+- Built a multi-container web application using Docker Compose.
+- Developed the application using Flask.
+- Used Nginx as a reverse proxy.
+- Integrated MySQL as the database.
+- Configured service networking and health checks.
+- Containerized and orchestrated the application using Docker Compose.
+
+**Tech:** `Flask` `Nginx` `MySQL` `Docker` `Docker Compose`
+
+---
+
+### ☁️ AWS Infrastructure Automation
+**Terraform + AWS**
+
+- Practiced infrastructure automation using Terraform.
+- Created and managed AWS infrastructure through Infrastructure as Code.
+- Used Terraform to automate cloud resource provisioning.
+- Practiced infrastructure lifecycle management and cleanup.
+
+**Tech:** `Terraform` `AWS` `Linux`
