@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./light.svg">
+
 <!--
 **Shubh1220/Shubh1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
