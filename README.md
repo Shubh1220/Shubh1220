@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Shubh Rastogi - DevOps Engineer" src="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubh1220/Shubh1220/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubh1220/Shubh1220/main/light.svg">
+  <img alt="Shubh Rastogi" src="https://raw.githubusercontent.com/Shubh1220/Shubh1220/main/light.svg">
 </picture>
 
 
