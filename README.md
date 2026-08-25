@@ -52,30 +52,17 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 
 ## 🚀 Featured Projects
 
-### 🔄 Full CI/CD Pipeline
-**GitHub → Jenkins → Docker → Deployment**
+### 🐳 Dockerized 3-Tier Application Deployment on AWS
 
-- Built an automated CI/CD pipeline for application deployment.
-- Integrated GitHub with Jenkins for automated builds.
-- Containerized the application using Docker.
-- Automated the build and deployment workflow.
-- Practiced CI/CD concepts including source control, build automation, and deployment.
+- Deployed a 3-tier application using Docker and Docker Compose.
+- Containerized the frontend and backend services.
+- Configured Nginx as a reverse proxy for application traffic.
+- Deployed application containers on AWS EC2.
+- Connected the backend to AWS RDS MySQL for persistent database storage.
+- Configured environment variables and AWS Security Groups for secure communication.
+- Created Shell scripts to automate the application deployment process.
 
-**Tech:** `GitHub` `Jenkins` `Docker` `Linux`
-
----
-
-### 🐳 Multi-Container Application
-**Flask + Nginx + MySQL + Docker Compose**
-
-- Built a multi-container web application using Docker Compose.
-- Developed the application using Flask.
-- Used Nginx as a reverse proxy.
-- Integrated MySQL as the database.
-- Configured service networking and health checks.
-- Containerized and orchestrated the application using Docker Compose.
-
-**Tech:** `Flask` `Nginx` `MySQL` `Docker` `Docker Compose`
+**Tech:** `Linux` `Git & GitHub` `Shell Scripting` `Docker` `Docker Compose` `Nginx` `AWS EC2` `AWS RDS` `MySQL`
 
 ---
 
