@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shubh Rastogi**, a B.Tech graduate and aspiring **DevOps Engineer** from Ghaziabad, India.
+I'm **Shubh Rastogi**, a B.Tech graduate and aspiring **DevOps Engineer** from Hasanpur, India.
 
 I enjoy building, deploying, and automating applications using modern **DevOps, Cloud, and Containerization** technologies.
 
