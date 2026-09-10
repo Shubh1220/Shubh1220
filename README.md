@@ -74,7 +74,7 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 - Built and pushed Docker images to a container registry.
 - Deployed the application on AWS EC2 with automated health checks.
 
-**Tech:** Git & GitHub | Jenkins | Jenkinsfile | Docker | Docker Hub | AWS EC2 | SonarQube | Trivy | OWASP Dependency Check
+**Tech:**  `Git & GitHub` `Jenkins` `Docker` `AWS EC2` `SonarQube` `Trivy` `OWASP Dependency Check` 
 
 ---
 
