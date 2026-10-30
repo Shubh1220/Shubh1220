@@ -81,7 +81,7 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 - Developed a restaurant ordering application using React.js and Node.js microservices.
 - Containerized frontend and backend services using Docker.
 - Orchestrated application containers using Kubernetes.
-- Configured Deployments, Services, ConfigMaps and Secrets.
+- Configured Deployments, Services, ConfigMaps, and Secrets.
 - Implemented Ingress for external application access.
 - Configured PersistentVolumes and PersistentVolumeClaims for persistent storage.
 - Implemented Horizontal Pod Autoscaling and health probes.
@@ -89,7 +89,7 @@ I enjoy building, deploying, and automating applications using modern **DevOps, 
 - Tested deployments locally using KIND and prepared deployments on AWS EKS.
 - Used Amazon ECR for Docker image management.
 
-**Tech:** React.js · Node.js · Express.js · MySQL · Docker · Kubernetes · Helm · KIND · AWS EKS · Amazon ECR · Git & GitHub
+**Tech:**  `Git & GitHub` `Docker` `AWS ECR` `AWS EKS` `Kubernetes` `Helm` `KIND`
 
 ---
 
